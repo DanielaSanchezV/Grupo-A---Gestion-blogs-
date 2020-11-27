@@ -25,7 +25,7 @@ GRUPO A
 
 ## **¿CÓMO EJECUTAR?**
 
-Para que este código funcione se debe tener instalado en el sistema Python 3, y del microframe conocido como Flask, si usted dispone de esto, podrá disfutar de una linda serenata interpretada por nuestros músicos del programa, de lo contrario siga las siguientes indicaciones:
+Para que este código funcione se debe tener instalado en el sistema Python 3, y del microframe conocido como Flask, si usted dispone de esto, podrá hacer uso de nuestra plataforma, de lo contrario siga las siguientes indicaciones:
 
 REQUISITOS MÍNIMOS DEL SISTEMA:
 
