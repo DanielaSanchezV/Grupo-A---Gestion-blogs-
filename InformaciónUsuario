@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Informacion del usuario</title>
+</head>
+<body>
+    <h1><strong>Información del usuario</strong></h1>
+    <hr>
+    <div>
+        <p><strong>Información del usuario</strong></p>
+        <p>Nombre</p>
+        <p>Correo electrónico</p>
+        <p>Contraseña</p>
+        <button>Cambiar contraseña</button>
+    </div>
+    </body>
+</html>
